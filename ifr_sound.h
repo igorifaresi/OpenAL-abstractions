@@ -10,7 +10,16 @@
 #ifndef IFR_SOUND_H
 #define IFR_SOUND_H
 
-#include "ifr_definitions.h"
+#include <AL/al.h>
+#include <AL/alc.h>
+#include <AL/alut.h>
+
+#include <math.h>
+#include <stdlib.h>
+#include <stdio.h>
+#include <string.h>
+
+#include "stb_vorbis.c"
 
 //-----------------------------------------------------------------------------
 
