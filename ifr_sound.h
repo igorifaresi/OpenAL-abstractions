@@ -1,6 +1,6 @@
 /*
  * resume:
- *     OpenAL audio abstractions for hyper drop engine.
+ *     OpenAL audio abstractions.
  * author: 
  *     Igor Fagundes [ifaresi]
  * date: 
